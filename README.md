@@ -10,7 +10,3 @@
 - irradiance：太阳能辐射量
 - mountain：基于DEM的太阳能辐射量
 
-### 参考
-
-https://github.com/Jwely/solar
-
